@@ -1,3 +1,4 @@
 cookies.env
 *.pyc
 __pycache__
+pdfs/*
